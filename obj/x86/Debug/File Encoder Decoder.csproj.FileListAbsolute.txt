@@ -1,0 +1,36 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\bin\Debug\File Encoder Decoder.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\bin\Debug\File Encoder Decoder.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\obj\x86\Debug\File_Encoder_Decoder.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\obj\x86\Debug\File_Encoder_Decoder.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\obj\x86\Debug\File Encoder Decoder.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\File Encoder Decoder\obj\x86\Debug\File Encoder Decoder.pdb
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\obj\x86\Debug\File Encoder Decoder.exe
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\obj\x86\Debug\File Encoder Decoder.pdb
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\bin\Debug\File Encoder Decoder.exe
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\bin\Debug\File Encoder Decoder.pdb
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\obj\x86\Debug\File_Encoder_Decoder.Form1.resources
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\obj\x86\Debug\File_Encoder_Decoder.Properties.Resources.resources
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Programming\My Visual Studio C# Practice\File Encoder Decoder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\obj\x86\Debug\File Encoder Decoder.exe
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\obj\x86\Debug\File Encoder Decoder.pdb
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\bin\Debug\File Encoder Decoder.exe
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\bin\Debug\File Encoder Decoder.pdb
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\obj\x86\Debug\File_Encoder_Decoder.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\obj\x86\Debug\File_Encoder_Decoder.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\obj\x86\Debug\File Encoder Decoder.exe
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\obj\x86\Debug\File Encoder Decoder.pdb
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\bin\Debug\File Encoder Decoder.exe
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\bin\Debug\File Encoder Decoder.pdb
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\obj\x86\Debug\File_Encoder_Decoder.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\obj\x86\Debug\File_Encoder_Decoder.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\File Encoder Decoder New\obj\x86\Debug\GenerateResource.write.1.tlog

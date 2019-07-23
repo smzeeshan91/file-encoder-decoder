@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Encoder Decoder", "File Encoder Decoder.csproj", "{856F5D13-63F1-4997-9DB7-705B16579F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856F5D13-63F1-4997-9DB7-705B16579F8E}.Debug|x86.ActiveCfg = Debug|x86
+		{856F5D13-63F1-4997-9DB7-705B16579F8E}.Debug|x86.Build.0 = Debug|x86
+		{856F5D13-63F1-4997-9DB7-705B16579F8E}.Release|x86.ActiveCfg = Release|x86
+		{856F5D13-63F1-4997-9DB7-705B16579F8E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
